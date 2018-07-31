@@ -4,7 +4,9 @@
 #### An interesting problem. Build a triangle of vertically aligned consequent numbers.
 
 
-##### Examples:
+
+
+#### Examples:
 
 <div display=flex flex-wrap=wrap>
   <img src="examples/exampleIMG_7989.JPG" width=35%>
@@ -12,7 +14,9 @@
 </div>
 
 
+
 ### Solutions
 
-1. Solution in [Python3]()
-1. Solution in [JavaScript]()
+
+1. My solution in [Python3](Python/solveTriangle.py)
+1. My solution in [JavaScript](JavaScript/solveTriangle.py)
