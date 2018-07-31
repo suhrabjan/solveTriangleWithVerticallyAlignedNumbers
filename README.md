@@ -4,7 +4,8 @@
 
 <img src="examples/exampleIMG_7989.JPG">
 <img src="examples/exampleIMG_1859.JPG">
-  img {
-    display:inline;
-    width: 40%;
-  }
+img[alt=name_for_alt] {
+  width: 70%;
+  border: none;
+  background: none;
+}
