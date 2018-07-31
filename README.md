@@ -5,6 +5,8 @@
 <img src="examples/exampleIMG_7989.JPG">
 <img src="examples/exampleIMG_1859.JPG">
 <style>
-  display:inline;
-  width: 40%;
+  img {
+    display:inline;
+    width: 40%;
+  }
 </style>
